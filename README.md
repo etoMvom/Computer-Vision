@@ -2,12 +2,7 @@
 
 ---
 
-# Computer Vision
-
-## INFO8010: Project Proposal  
-**Wilfried Mvomo Eto**  
-_Email_: 1Wilfried.MvomoEto@student.uliege.be  
-_Student ID_: s226625  
+## Smartphone-Assisted Crop Disease Diagnosis: Leveraging Deep Learning for Rapid Identification  
 
 ---
 

@@ -1,8 +1,4 @@
-# Computer-Vision
-
----
-
-## Smartphone-Assisted Crop Disease Diagnosis: Leveraging Deep Learning for Rapid Identification  
+# Smartphone-Assisted Crop Disease Diagnosis: Leveraging Deep Learning for Rapid Identification
 
 ---
 
